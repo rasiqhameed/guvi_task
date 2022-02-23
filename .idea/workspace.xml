@@ -40,7 +40,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="grid.search.filter.rows" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../mba-page" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -71,6 +71,7 @@
       <workItem from="1635918802562" duration="627000" />
       <workItem from="1639639651652" duration="35417000" />
       <workItem from="1645541693551" duration="14832000" />
+      <workItem from="1645617636137" duration="299000" />
     </task>
     <servers />
   </component>
